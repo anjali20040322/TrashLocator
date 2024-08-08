@@ -1,2 +1,2 @@
 # TrashLocator
-A website to control and solve the waster management system around our society
+A website to control and solve the waste management system around our society
